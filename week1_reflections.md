@@ -1,1 +1,1 @@
-
+I learnt about how to print in python, and understand the concepts of a pc and all the hardware. I also learnt that languages are still needed even though ai can code, learning if the code is acurate and secure is really important based on the examples provided in class. 
